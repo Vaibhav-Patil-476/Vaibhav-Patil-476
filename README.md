@@ -2,57 +2,57 @@
 
 💻 Java Full Stack Developer  
 🎓 BCA Graduate  
-🚀 Passionate about building modern web applications  
+🚀 Passionate about Web Development  
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **Java Full Stack Development (Spring Boot + React)**
-- 💡 Interested in Web Development and Backend Development
-- 🔭 Working on real-time full stack projects
-- 🎯 Goal: To become a Professional Software Developer
+- 🌱 Currently learning **Java Full Stack Development**
+- 🔭 Working on Full Stack Projects
+- 🎯 Goal: To become a Professional Software Engineer
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Frontend
-- React.js
-- JavaScript
-- HTML5
-- CSS3
-- Bootstrap
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,html,css" />
+</p>
 
-### ⚙ Backend
-- Java
-- Spring Boot
-- REST APIs
-- MySQL
-- Hibernate / JPA
+### ⚙️ Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,bootstrap" />
+</p>
 
-### 🛠 Tools
-- Git
-- GitHub
-- VS Code
-- Postman
+### 🔧 Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,mysql" />
+</p>
+
+### 🛠 Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 ---
 
-## 📂 My Projects
+## 📂 Featured Projects
 
 ### 🐾 Pet Adoption System
-Full-stack web application using React and Spring Boot  
-Users can browse and adopt pets online.
+Full Stack Web Application using React & Spring Boot.
 
 ### 🏨 Hotel Management System
-Online booking system with admin panel and payment integration.
+Online Booking System with Admin Panel.
 
 ---
 
 ## 📊 GitHub Stats
 
-![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
 
 ---
 
@@ -63,4 +63,4 @@ Online booking system with admin panel and payment integration.
 
 ---
 
-⭐ Thank you for visiting my profile!
+⭐ Keep Learning | Keep Building 🚀
