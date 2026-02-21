@@ -33,7 +33,7 @@
 
 ### 🛠 Tools & Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,eclipse" />
 </p>
 
 ---
