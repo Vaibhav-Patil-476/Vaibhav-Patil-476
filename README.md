@@ -1,164 +1,130 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=c8834a&height=200&section=header&text=Autumn_29&fontSize=80&fontColor=faf7f2&fontAlignY=38&desc=Slow%20Fashion%20%C2%B7%20Ethical%20Style&descAlignY=58&descSize=18&descColor=faf7f2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Vaibhav%20Patil&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20Node.js&descAlignY=58&descSize=18&descColor=ffffff" width="100%"/>
 
-<br/>
+</div>
 
+---
+
+<img align="right" alt="coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+
+### 👋 Hey there, I'm Vaibhav!
+
+I'm a **Full Stack Developer** from Kolhāpur, Maharashtra 🇮🇳
+
+I love building clean, purposeful web experiences — from pixel-perfect frontends to solid backends. I believe good code should be readable, maintainable, and solve real problems.
+
+- 🔭 Currently building **Autumn_29** — a slow fashion e-commerce store
+- 🌱 Always learning something new in the React & Node ecosystem
+- 💡 I enjoy turning ideas into real, working products
+- 📫 Reach me at **your@email.com**
+- ⚡ Fun fact: I write better code after chai ☕
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Google Fonts](https://img.shields.io/badge/Google_Fonts-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-<br/>
+**Backend**
 
-> *🍂 Clothes that feel like the season you never want to leave.*
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-<br/>
+**Tools**
 
-[![GitHub stars](https://img.shields.io/github/stars/your-username/autumn_29?style=social)](https://github.com/your-username/autumn_29)
-[![GitHub forks](https://img.shields.io/github/forks/your-username/autumn_29?style=social)](https://github.com/your-username/autumn_29)
-
-</div>
-
----
-
-## 🍁 About The Project
-
-**Autumn_29** is a modern, fully responsive e-commerce UI built with **React.js** for a slow fashion clothing brand. Every component is designed around the mood of autumn — warm tones, rich textures, and an editorial feel that makes the store feel like a premium fashion brand.
-
-Built with beginner-friendly React — no complex hooks, no state libraries. Just clean JSX and scoped CSS.
-
----
-
-## 🖥️ Pages & Components
-
-| Component | Description |
-|-----------|-------------|
-| 🏠 `Hero` | Full-screen landing with animated autumn leaves |
-| 👤 `About` | Brand story, stats bar, values cards & founder quote |
-| 🛎️ `Services` | 6 services in a sharp editorial grid layout |
-| 📬 `Contact` | Two-column form with store info |
-| 🔐 `AuthModal` | Popup Login & Signup with tab switching |
-| 🦶 `Footer` | Newsletter, social links & site navigation |
-
----
-
-## ⚙️ Tech Stack
-
-<div align="center">
-
-| Technology | Purpose |
-|------------|---------|
-| **React.js** | Frontend framework |
-| **React Router DOM** | Client-side routing |
-| **Scoped CSS in JSX** | Component-level styling |
-| **Cormorant Garamond** | Heading font — editorial serif |
-| **Outfit** | Body font — clean & modern |
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 </div>
 
 ---
 
-## 🎨 Design Tokens
+## 🚀 Featured Project
 
 <div align="center">
 
-| Token | Color | Value |
-|-------|-------|-------|
-| Primary BG | 🟫 | `#1a1208` |
-| Card BG | 🟤 | `#2e1f0e` |
-| Light BG | 🟧 | `#f5f0ea` |
-| Brand Accent | 🔶 | `#c8834a` |
-| Text Dark | ⬛ | `#2c2417` |
-| Text Light | ⬜ | `#faf7f2` |
+<table>
+  <tr>
+    <td align="center" width="100%">
+      <h3>🍂 Autumn_29 — Slow Fashion E-Commerce Store</h3>
+      <p><em>"Clothes that feel like the season you never want to leave."</em></p>
+      <p>
+        A modern, fully responsive e-commerce web application for a slow fashion clothing brand.<br/>
+        Built with React.js featuring a rich editorial design with warm autumn tones, sharp typography,<br/>
+        and a premium feel — from a hero landing page to a popup auth modal.
+      </p>
+      <br/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+      <br/><br/>
+      <b>✨ Includes:</b> Hero · About · Services · Contact Form · Auth Modal · Footer
+      <br/><br/>
+      <a href="https://github.com/your-username/autumn_29">
+        <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+      &nbsp;
+      <a href="#">
+        <img src="https://img.shields.io/badge/Live%20Demo-c8834a?style=for-the-badge&logo=vercel&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-## 📁 Folder Structure
+## 📊 GitHub Stats
 
-```
-autumn_29/
-├── 📂 src/
-│   ├── 📂 components/
-│   │   ├── 🧩 Navbar.jsx
-│   │   ├── 🧩 Hero.jsx
-│   │   ├── 🧩 About.jsx
-│   │   ├── 🧩 Services.jsx
-│   │   ├── 🧩 Contact.jsx
-│   │   ├── 🧩 AuthModal.jsx
-│   │   └── 🧩 Footer.jsx
-│   ├── 📂 cssComponents/
-│   │   └── 🎨 About.css
-│   ├── ⚛️  App.jsx
-│   └── 🚀 main.jsx
-├── 📂 public/
-├── 📄 package.json
-└── 📄 README.md
-```
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" height="165"/>
+
+</div>
 
 ---
 
-## 🚀 Getting Started
+## 🌐 Connect With Me
 
-### 1. Clone the repo
-```bash
-git clone https://github.com/your-username/autumn_29.git
-cd autumn_29
-```
+<div align="center">
 
-### 2. Install dependencies
-```bash
-npm install
-```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-instagram)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
 
-### 3. Run the dev server
-```bash
-npm run dev
-```
-
-✅ Open [http://localhost:5173](http://localhost:5173) in your browser.
-
----
-
-## 📸 Screenshots
-
-> 🖼️ Add your screenshots here after deployment.
-
-```
-| Home Page | About Page | Auth Modal |
-|-----------|------------|------------|
-| img here  | img here   | img here   |
-```
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork the project
-2. Create your branch → `git checkout -b feature/my-feature`
-3. Commit your changes → `git commit -m "Add my feature"`
-4. Push to the branch → `git push origin feature/my-feature`
-5. Open a Pull Request
-
----
-
-## 📄 License
-
-Distributed under the **MIT License**. See `LICENSE` for more information.
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=c8834a&height=120&section=footer&fontColor=faf7f2" width="100%"/>
+<img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=c8834a&style=flat" alt="Profile Views"/>
 
-**Made with 🍂 by Autumn_29**
+<br/><br/>
 
-*If you like this project, please ⭐ star the repo!*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
 
 </div>
