@@ -121,7 +121,7 @@ I love building clean, purposeful web applications — from pixel-perfect React 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/vaibhav-patil-b2b4b6317/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/vaibhav-patil-b2b4b6317/))
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vai044131@email.com)
 
