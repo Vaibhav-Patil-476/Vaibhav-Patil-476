@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Vaibhav%20Patil&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20Node.js&descAlignY=58&descSize=18&descColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Vaibhav%20Patil&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20Spring%20Boot%20%7C%20React&descAlignY=58&descSize=18&descColor=ffffff" width="100%"/>
 
 </div>
 
@@ -10,12 +10,13 @@
 
 ### 👋 Hey there, I'm Vaibhav!
 
-I'm a **Full Stack Developer** from Kolhāpur, Maharashtra 🇮🇳
+I'm a **Java Full Stack Developer** from Kolhāpur, Maharashtra 🇮🇳
 
-I love building clean, purposeful web experiences — from pixel-perfect frontends to solid backends. I believe good code should be readable, maintainable, and solve real problems.
+I love building clean, purposeful web applications — from pixel-perfect React frontends to solid Spring Boot backends. I believe good code should be readable, maintainable, and solve real problems.
 
-- 🔭 Currently building **Autumn_29** — a slow fashion e-commerce store
-- 🌱 Always learning something new in the React & Node ecosystem
+- 🎓 Currently learning **Java Full Stack Development** (Spring Boot + React)
+- 🔭 Currently building **OPD Management System** — Spring Boot backend
+- 💻 Also working on **Autumn_29** — a React e-commerce store
 - 💡 I enjoy turning ideas into real, working products
 - 📫 Reach me at **your@email.com**
 - ⚡ Fun fact: I write better code after chai ☕
@@ -39,11 +40,19 @@ I love building clean, purposeful web experiences — from pixel-perfect fronten
 
 **Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+**Database**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Tools**
 
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -60,27 +69,29 @@ I love building clean, purposeful web experiences — from pixel-perfect fronten
 <table>
   <tr>
     <td align="center" width="100%">
-      <h3>🍂 Autumn_29 — Slow Fashion E-Commerce Store</h3>
-      <p><em>"Clothes that feel like the season you never want to leave."</em></p>
+      <h3>🏥 OPD Management System — Backend</h3>
+      <p><em>"Streamlining outpatient care with a clean, scalable REST API."</em></p>
       <p>
-        A modern, fully responsive e-commerce web application for a slow fashion clothing brand.<br/>
-        Built with React.js featuring a rich editorial design with warm autumn tones, sharp typography,<br/>
-        and a premium feel — from a hero landing page to a popup auth modal.
+        A robust backend system for managing Outpatient Department (OPD) operations<br/>
+        in a hospital or clinic. Built with <strong>Spring Boot</strong> and <strong>MySQL</strong>,<br/>
+        it handles patient registration, doctor scheduling, appointment booking and medical records<br/>
+        through a secure RESTful API with JWT authentication.
       </p>
       <br/>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
       <br/><br/>
-      <b>✨ Includes:</b> Hero · About · Services · Contact Form · Auth Modal · Footer
+      <b>✨ Features:</b> Patient Registration · Doctor Management · Appointment Booking · Medical Records · JWT Auth
       <br/><br/>
-      <a href="https://github.com/your-username/autumn_29">
+      <a href="https://github.com/your-username/opd-management-backend">
         <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
       &nbsp;
       <a href="#">
-        <img src="https://img.shields.io/badge/Live%20Demo-c8834a?style=for-the-badge&logo=vercel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/API%20Docs-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
       </a>
     </td>
   </tr>
@@ -121,7 +132,7 @@ I love building clean, purposeful web experiences — from pixel-perfect fronten
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=c8834a&style=flat" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=6DB33F&style=flat" alt="Profile Views"/>
 
 <br/><br/>
 
